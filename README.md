@@ -16,7 +16,7 @@ To start the game enter the command:
 java chess/chess
 ```
 ### Playing the game ###
-####Making a Move ####
+#### Making a Move ####
 The game starts with the picture of the board and waiting for whites input. The format of the input is: "Start Positon" "End Postion"
 ``` 
 White's move: e2 e4
@@ -37,7 +37,7 @@ If a queen promote is desired then omit the third input, as queen is the default
 
 
 
-####Ending the game####
+#### Ending the game ####
 The game is concluded when a player is in check mate , they resign, or call a draw. To resign in the game of chess the player must input 
 ``` 
 Black's move: resign
